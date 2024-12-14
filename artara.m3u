@@ -37,5 +37,3 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Kanal",TVNET
 http://stream.tvcdn.net/haber/tvnet.m3u8
-#EXTINF:1 tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_16x9-1599054703.jpg" group-title="Filmler",Bizim İçin Şampiyon
-https://youtu.be/Jsx87V8h3WY
