@@ -5,7 +5,7 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Kanal",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:0 tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
+#EXTINF:0 tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="Kanal",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:0 tvg-name="Show TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Kanal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
